@@ -1,10 +1,4 @@
-# Guide to contributing
 
-This book is developed collaboratively and openly, here on GitHub. We accept comments, contributions and corrections from all.
-
-## Current Project STATUS
-
-**THIRD EDITION PUBLISHED**
 
 
 ## License and attribution
