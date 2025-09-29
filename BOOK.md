@@ -6,7 +6,6 @@ _By Andreas M. Antonopoulos and David A. Harding_
 ## [Chapter 1 - Introduction](ch01_intro.adoc)
 ## [Chapter 2 - Overview](ch02_overview.adoc)
 ## [Chapter 3 - Bitcoin Core](ch03_bitcoin-core.adoc)
-## [Chapter 4 - Keys and Addresses](ch04_keys.adoc)
 ## [Chapter 5 - Wallets](ch05_wallets.adoc)
 ## [Chapter 6 - Transactions](ch06_transactions.adoc)
 ## [Chapter 7 - Authorization and Authentication](ch07_authorization-authentication.adoc)
